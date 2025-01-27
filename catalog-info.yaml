@@ -16,6 +16,6 @@ metadata:
   annotations:
     github.com/project-slug: llm_based_stock_recommendation_system
 spec:
-  type: library
+  type: application
   owner: guests
   lifecycle: production
