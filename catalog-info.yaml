@@ -1,0 +1,14 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: GenAI Enabled Stock Recommendation System
+  description: |
+    This GenAI enabled system provides recommendations : Buy, Hold, Sell based on News, Stock Closing Values, and Financial Statements.
+  annotations:
+    github.com/project-slug: llm_based_stock_recommendation_system
+    backstage.io/techdocs-ref: dir:.
+    lighthouse.com/website-url: https://backstage.io
+spec:
+  type: application
+  owner: panjieke
+  lifecycle: production
