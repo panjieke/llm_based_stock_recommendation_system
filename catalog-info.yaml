@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Component
 metadata:
-  name: backstage
+  name: Stock Recommender
   description: |
     An GenAI enabled system provides recommendations : Buy, Hold, Sell based on News, Stock Closing Values, and Financial Statements
   links:
